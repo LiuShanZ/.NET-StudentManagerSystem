@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagerPro", "StudentManagerPro.csproj", "{CA8F7445-1E77-4066-AEE1-7F31FA8CAC0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", "{C8C74D4A-0902-4586-98BE-5B7DFE8945CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "..\Models\Models.csproj", "{A29674B8-8A96-4C69-AFD1-5A7796988981}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA8F7445-1E77-4066-AEE1-7F31FA8CAC0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA8F7445-1E77-4066-AEE1-7F31FA8CAC0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA8F7445-1E77-4066-AEE1-7F31FA8CAC0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA8F7445-1E77-4066-AEE1-7F31FA8CAC0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8C74D4A-0902-4586-98BE-5B7DFE8945CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C74D4A-0902-4586-98BE-5B7DFE8945CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C74D4A-0902-4586-98BE-5B7DFE8945CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C74D4A-0902-4586-98BE-5B7DFE8945CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A29674B8-8A96-4C69-AFD1-5A7796988981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29674B8-8A96-4C69-AFD1-5A7796988981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29674B8-8A96-4C69-AFD1-5A7796988981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29674B8-8A96-4C69-AFD1-5A7796988981}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91A5BFEF-D07D-4E9E-B3B1-9A689A3DBC36}
+	EndGlobalSection
+EndGlobal
